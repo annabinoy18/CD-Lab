@@ -1,0 +1,4 @@
+flex vowel.l
+gcc lex.yy.c -o vowel -lfl
+./vowel
+
